@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Sarthak Bhattarai
 
-<!--
-**SynthenCoder/SynthenCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Sejong University  
+💻 Aspiring Software Developer  
+🌏 Passionate about building digital solutions for real-world problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 E-Governance Web Application  
+A full-stack web application designed to digitize government services.
+
+🔗 Live Demo: https://nepal-egov-system.onrender.com  
+
+**Features:**
+- OTP Email Verification  
+- Role-Based Access Control  
+- Document Upload & Validation  
+- Dashboard System  
+
+**Tech Stack:**
+- Python (Flask)  
+- HTML, CSS  
+- Database  
+
+---
+
+## 💻 Skills
+- Python  
+- HTML & CSS  
+- Flask  
+- Database Systems  
+- Git  
+
+---
+
+## 🌍 Languages
+- English (Fluent)  
+- Nepali (Native)  
+- Korean (Beginner/Intermediate)  
+
+---
+
+## 📫 Contact Me
+📧 sarthakbhattarai121@gmail.com  
+🔗 GitHub: https://github.com/SynthenCoder
